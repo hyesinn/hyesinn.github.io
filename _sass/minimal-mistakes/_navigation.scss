@@ -439,7 +439,7 @@
 
 .nav__list .nav__items {
   margin: 0;
-  font-size: 1.00rem; // changed 1.25 > 1.00 - hjs
+  font-size: 1.25rem;
 
   a {
     color: inherit;
@@ -494,7 +494,7 @@
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
-  // font-weight: bold; - hjs
+  font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }
