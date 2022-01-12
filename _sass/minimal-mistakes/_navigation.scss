@@ -25,7 +25,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-6;
+    font-size: $type-size-7; // change font size -hjs
 
     @include breakpoint($large) {
       float: right;
