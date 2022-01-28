@@ -121,7 +121,7 @@ $p$ 보다 클 때 기울기(미분 계수)는 양수이므로 $p$ 보다 클 �
 로지스틱 회귀에서 활성화 함수로 시그모이드 함수를 이용할 수 있습니다.<br/>
 시그모이드 함수는 0과 1 사이의 값으로 매끄럽게 반환합니다.<br/>
 
-<figure style = "width : 300px" class="align-center">
+<figure style = "width : 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sigmoid.png" alt="">
   <figcaption>https://medium.com/@toprak.mhmt/activation-functions-for-deep-learning-13d8b9b20e</figcaption>
 </figure>
