@@ -3,7 +3,7 @@ title: "선형 회귀와 로지스틱 회귀"
 excerpt: "회귀의 기본적인 개념"
 
 categories:
-  - 통계학
+  - Machine Learning
 tags:
   - Statistics
   - Machine Learning

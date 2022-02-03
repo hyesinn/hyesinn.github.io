@@ -3,7 +3,7 @@ title: "텐서플로우 모델 학습을 직접 구현하기"
 excerpt: "텐서플로우의 GradientTape을 이용한 모델 컴파일 및 모델 피팅 사용자 정의"
 
 categories:
-  - 딥러닝
+  - Deep Learning
 tags:
   - Deep Learning
   - Machine Learning
