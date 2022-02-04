@@ -9,8 +9,8 @@
 .btn {
   /* default */
   display: inline-block;
-  margin-bottom: 0.25em;
-  padding: 0.5em 1em;
+  margin-bottom: 0.1em; // 0.25em
+  padding: 0.1em 0.5em; // 0.5em 1em
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
@@ -30,16 +30,16 @@
 
   /* button colors */
   $buttoncolors:
-  (primary, $primary-color),
-  (inverse, #fff),
-  (light-outline, transparent),
-  (success, $success-color),
-  (warning, $warning-color),
-  (danger, $danger-color),
-  (info, $info-color),
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
+  (primary, rgb(232, 222, 238)), // (primary, $primary-color)
+  (inverse, rgb(253, 236, 200)),
+  (light-outline, transparent), // (light-outline, transparent)
+  (success, rgb(219, 237, 219)), // (success, $success-color)
+  (warning, rgb(250, 222, 201)), // (warning, $warning-color)
+  (danger, rgb(255, 226, 221)), // (danger, $danger-color)
+  (info, rgb(211, 229, 239)), // (info, $info-color)
+  (facebook, $facebook-color), // (facebook, $facebook-color)
+  (twitter, $twitter-color), // (twitter, $twitter-color)
+  (linkedin, $linkedin-color); // (linkedin, $linkedin-color)
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
