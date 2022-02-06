@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Portfolio"
 permalink: /about/
 layout: single
 author_profile: true
@@ -19,7 +19,7 @@ author_profile: true
 </style>
 
 {% capture timeline %}
-### Timeline
+### Education
 
 | 2018.03 | - | | 인하대학교 컴퓨터공학과 |
 | 2021.12 | - | | AIFFEL 강남 |
@@ -38,10 +38,15 @@ author_profile: true
 
 
 
+### Experiences
+
+| 2020.03 | - | 2020.09 | 토파스여행정보 신사업팀 서비스 기획 어시스턴트 |
+| 2020.11 | - | 2021.04 | 미스터픽 첫차 서비스운영팀 데이터 모니터링 |
+
 ### Skills
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
