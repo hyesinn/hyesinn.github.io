@@ -7,7 +7,6 @@ categories:
 tags:
   - Statistics
   - Machine Learning
-  - Data Science
 
 toc: true
 toc_sticky: true
@@ -54,7 +53,7 @@ ex) 아버지 키와 자식의 사이의 관계 연구<br/>
 
 
 <figure style = "width : 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lossfun.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/lossfun.png" alt="">
   <figcaption>https://www.mathfactory.net/11195</figcaption>
 </figure>
 
@@ -101,7 +100,7 @@ $p$ 보다 클 때 기울기(미분 계수)는 양수이므로 $p$ 보다 클 �
 로지스틱 회귀 분석에서는 이러한 오즈에 로그를 취한 값을 사용합니다.
 
 <figure style = "width : 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/log.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/log.png" alt="">
   <figcaption>https://namu.wiki/w/로그함수</figcaption>
 </figure>
 
@@ -122,7 +121,7 @@ $p$ 보다 클 때 기울기(미분 계수)는 양수이므로 $p$ 보다 클 �
 시그모이드 함수는 0과 1 사이의 값으로 매끄럽게 반환합니다.<br/>
 
 <figure style = "width : 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sigmoid.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sigmoid.png" alt="">
   <figcaption>https://medium.com/@toprak.mhmt/activation-functions-for-deep-learning-13d8b9b20e</figcaption>
 </figure>
 

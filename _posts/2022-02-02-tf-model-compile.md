@@ -6,8 +6,6 @@ categories:
   - Deep Learning
 tags:
   - Deep Learning
-  - Machine Learning
-  - Data Science
   - TensorFlow
 
 toc: true
@@ -59,7 +57,7 @@ gradients = tape.gradient(loss, model.trainable_variables)
 위 작업을 미니 배치 방식으로 epoch 수만큼 반복해야합니다.
 
 <figure style = "width : 700px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minibatch.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/minibatch.png" alt="">
 </figure>
 
 ## 코드
