@@ -28,6 +28,7 @@ author_profile: true
 {% capture certificates %}
 ### Certificates
 * 데이터분석 준전문가 (ADsP)
+* 정보처리기사
 {% endcapture %}
 
 <div style = "display: flex;">
