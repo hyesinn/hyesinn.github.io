@@ -31,12 +31,12 @@ Regularization은 한국어로 정규화로 불립니다.<br/>
   <figcaption>https://www.educative.io/edpresso/overfitting-and-underfitting</figcaption>
 </figure>
 
-초록색 점은 훈련 데이터일 때, 모델은 Optimal case처럼 데이터의 일반적인 분포를 추정해야합니다.<br/>
-만약 Overfit case라면 훈련 데이터와 동일하지 않은 데이터에 대해서는 적절히 반응하지 못할 것입니다.<br/>
+초록색 점이 훈련 데이터일 때, 모델은 Optimal case처럼 데이터의 일반적인 분포를 추정해야합니다.<br/>
+만약 Overfit case라면 훈련 데이터와 완벽히 동일한 데이터가 아니라면 적절히 반응하지 못할 것입니다.<br/>
 
 ### Regularization
 
-정칙화(Regularization)이란 임의로 모델의 복잡도를 줄이는 방법입니다.<br/>
+정칙화(Regularization)란 임의로 모델의 복잡도를 줄이는 방법입니다.<br/>
 단순하게 loss가 작아지는 방향으로 학습을 지속한다면 특정 가중치가 큰 값을 가지게 됩니다.<br/>
 정칙화는 가중치(Weight)가 커지지 않도록 하는 방법입니다.<br/>
 
@@ -50,7 +50,7 @@ Regularization은 한국어로 정규화로 불립니다.<br/>
 
 ### Normalization
 
-정규화(Normalization)이란 데이터의 형태를 트레이닝에 적합하게 변형하는 방법입니다.<br/>
+정규화(Normalization)란 데이터의 형태를 트레이닝에 적합하게 변형하는 방법입니다.<br/>
 데이터의 분포 특성에 의해 데이터의 거리 간의 측정이 왜곡되는 경우가 있습니다.<br/>
 예를 들면 아주 큰 범위의 값을 가지고 있는 데이터의 경우 머신러닝에 큰 어려움을 겪을 수 있습니다.<br/>
 
